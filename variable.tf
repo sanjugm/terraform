@@ -3,5 +3,5 @@ variable "location" {
 }
 
 variable "rg_name" {
-  default = "cli_sanju3"
+  default = "cli_sanju4"
 }
